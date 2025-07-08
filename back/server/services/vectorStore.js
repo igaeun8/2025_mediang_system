@@ -1,4 +1,4 @@
-// chroma 벡터 저장 및 검색 모듈ㄹ
+// chroma 벡터 저장 및 검색 모듈
 
 import { Chroma } from "langchain_chroma";
 import embeddings from "./embeddingService.js";
